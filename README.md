@@ -7,8 +7,11 @@
 🌱 I’m currently learning php native and laravel 
 
 📫 How to reach me : 
+
    instagram -> @at.tamami_
+   
    linkedin -> linkedin.com/in/attamami
+   
    email -> attamami1703@gmail.com
 
 <!---

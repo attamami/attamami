@@ -4,7 +4,7 @@
    
 👀 I’m interested in Programming (specifically website programming), networking, operating systems, and troubleshooting
 
-🌱 I’m currently learning php native and laravel 
+🌱 I’m currently learning laravel 
 
 📫 How to reach me : 
 

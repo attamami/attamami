@@ -1,6 +1,6 @@
 👋 Hi, I’m @attamami, 
    of course it's not my actual name :D
-   My name is Mukhammad Badrut Tamam, im a college student from Semarang State Polytechnic
+   My name is Mukhammad Badrut Tamam, im a fresh graduate of informatics engineering
    
 👀 I’m interested in Programming (specifically website programming), networking, operating systems, and troubleshooting
 
